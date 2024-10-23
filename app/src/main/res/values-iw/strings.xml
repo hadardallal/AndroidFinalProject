@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="start_button">למדריך</string>
+    <string name="welcome_text">מדריך חיות</string>
+    <string name="change_language_button">שנה שפה</string>
+    <string name="enter_email">הזן את האימייל שלך</string>
+    <string name="enter_password">הזן את הסיסמא שלך</string>
+    <string name="login">התחברות</string>
+    <string name="register">הרשמה</string>
+
+    <string name="animal_name_lion">אריה</string>
+    <string name="animal_name_elephant">פיל</string>
+    <string name="animal_name_giraffe">גירפה</string>
+    <string name="animal_name_alligator">תנין</string>
+    <string name="animal_name_penguin">פינגווין</string>
+    <string name="animal_name_zebra">זברה</string>
+    <string name="animal_name_hippopotamus">היפופוטם</string>
+    <string name="animal_name_monkey">קוף</string>
+
+    <string name="animal_desc_lion">האריה הוא טורף ממשפחת החתוליים, ידוע בכינויו "מלך החיות". הוא חי באפריקה ובאזורים מסוימים בהודו.</string>
+    <string name="animal_desc_elephant">הפיל הוא היונק היבשתי הגדול ביותר, עם חטים ארוכים וחדק רב-תכליתי. הוא נפוץ בעיקר באפריקה ובאסיה.</string>
+    <string name="animal_desc_giraffe">הגירפה היא החיה היבשתית הגבוהה ביותר, המתאפיינת בצוואר ארוך וכתמים על עורה. היא חיה בסוואנות של אפריקה.</string>
+    <string name="animal_desc_alligator">התנין הוא זוחל טורף שחי במים מתוקים וביצות, עם שיניים חדות ולסת חזקה. הוא נפוץ בעיקר באפריקה ובאסיה.</string>
+    <string name="animal_desc_penguin">הפינגווין הוא עוף ימי שאינו מעופף, החי בעיקר באזורים קרים כמו אנטארקטיקה. הוא ידוע בהליכתו הזקופה.</string>
+    <string name="animal_desc_zebra">הזברה היא יונק אפריקני עם פרווה בעלת פסים שחורים ולבנים, החיה בעדרים ונודדת במישורים פתוחים.</string>
+    <string name="animal_desc_hippopotamus">ההיפופוטם הוא יונק גדול שחי במים מתוקים באפריקה, ידוע בפיו הגדול וגופו הכבד. הוא מבלה זמן רב במים כדי לשמור על קרירותו.</string>
+    <string name="animal_desc_monkey">הקוף הוא יונק חכם עם יכולת טיפוס גבוהה, החי באזורים טרופיים וידוע בהתנהגות חברתית מפותחת.</string>
+
+    <string name="error_missing_email">נא להזין כתובת מייל</string>
+    <string name="error_missing_password">נא להזין סיסמא</string>
+    <string name="error_missing_email_password">נא להזין כתובת מייל וסיסמא</string>
+
+    <string name="login_successful">ההתחברות הצליחה</string>
+    <string name="login_failed">ההתחברות נכשלה</string>
+    <string name="registration_successful">הרישום הצליח</string>
+    <string name="error_email_exists">האימייל כבר קיים</string>
+    <string name="registration_failed">הרישום נכשל</string>
+
+    <string name="share">שתף</string>
+    <string name="subject">מידע על בעל חיים</string>
+    <string name="ask_Phone">הזן מספר טלפון:</string>
+    <string name="ask_Email">הזן כתובת מייל:</string>
+    <string name="share_animal_info">שיתוף מידע על החיה</string>
+    <string name="share_via_sms">שתף באמצעות הודעה</string>
+    <string name="share_via_email">שתף באמצעות אימייל</string>
+    <string name="share_name">שם:</string>
+    <string name="share_description">תיאור:</string>
+    <string name="share_cancel">ביטול</string>
+    <string name="share_send">נשלח בהצלחה</string>
+
+    <string name="stop_music">עצור מוסיקה</string>
+    <string name="play_music"> הפעל מוסיקה</string>
+    <string name="create_an_account">צור משתמש חדש</string>
+    <string name="zoo_guide">מדריך לגן חיות</string>
+    <string name="welcome">ברוך הבא!</string>
+    <string name="click_on_me">לחץ עליי!</string>
+</resources>
+

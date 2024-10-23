@@ -1,0 +1,86 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/view3"
+    android:orientation="vertical"
+    tools:context=".fragments.RegisterFragment">
+
+    <TextView
+        android:id="@+id/textViewEmailReg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/proteststrikeregular"
+        android:text="@string/create_an_account"
+        android:textColor="#2E2B2B"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.032"
+         />
+
+    <EditText
+        android:id="@+id/editTxtEmailReg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/loveyalikeasisterregular"
+        android:gravity="left"
+        android:hint="@string/enter_email"
+        android:inputType="textEmailAddress"
+        android:shadowColor="#2E2B2B"
+        android:textColor="#2E2B2B"
+        android:textColorHighlight="#2E2B2B"
+        android:textColorHint="#2E2B2B"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.141" />
+
+
+    <EditText
+        android:id="@+id/editTxtPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/loveyalikeasisterregular"
+        android:gravity="left"
+        android:hint="@string/enter_password"
+        android:inputType="textPassword"
+        android:shadowColor="#2E2B2B"
+        android:textColor="#2E2B2B"
+        android:textColorHighlight="#2E2B2B"
+        android:textColorHint="#2E2B2B"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.339" />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="177dp"
+        android:layout_height="68dp"
+        android:backgroundTint="#F0EAEA"
+        android:fontFamily="@font/loveyalikeasisterregular"
+        android:text="@string/register"
+        android:textColor="#4E4C4C"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.499" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#F0EAEA" /> <!-- צבע רקע רגיל של הכפתור -->
+        </shape>
+    </item>
+
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#00FFFFFF"
+                android:centerColor="#80FFFFFF"
+                android:endColor="#00FFFFFF"
+                android:angle="45"
+                android:type="linear" />
+        </shape>
+    </item>
+</layer-list>
