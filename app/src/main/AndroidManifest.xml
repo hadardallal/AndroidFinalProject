@@ -15,7 +15,7 @@
         android:label="Zoo Guide"
         android:roundIcon="@drawable/icon"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SupermarketApplication"
+        android:theme="@style/Theme.AndroidProject"
         android:fontFamily="@font/alef"
         tools:targetApi="31">
 
